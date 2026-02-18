@@ -1,0 +1,14 @@
+# Credentials and Environment
+.env
+
+# Large Datasets and Folders
+CC-OCR_Dataset/
+Extracted_parsing_images/
+
+# Documents
+*.pdf
+
+# Python Environment and Cache
+venv/
+__pycache__/
+*.pyc
