@@ -1,0 +1,12 @@
+{
+    "Document Parsing (NED-LaTeX)": {
+        "Scanned": 0.5077479323086915,
+        "Photoed": 0.6282332564443189
+    },
+    "Table Parsing (HTML-Sim)": {
+        "Scanned": 0.6555066174747228,
+        "Photoed": 0.5207718393466946
+    },
+    "Model": "gemma-3-27b-it",
+    "Track": "English Document Parsing"
+}
