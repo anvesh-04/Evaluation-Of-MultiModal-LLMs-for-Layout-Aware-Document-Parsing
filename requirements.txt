@@ -1,0 +1,15 @@
+# Using Python 3.12 Version
+# Install necessary libraries
+pandas 
+numpy 
+matplotlib 
+ipykernel 
+ollama 
+pandas 
+pillow 
+nltk 
+lxml 
+distance 
+tabulate 
+apted 
+huggingface_hub
