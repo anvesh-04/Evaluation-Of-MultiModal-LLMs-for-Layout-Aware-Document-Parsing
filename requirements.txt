@@ -13,3 +13,4 @@ distance
 tabulate 
 apted 
 huggingface_hub
+requests

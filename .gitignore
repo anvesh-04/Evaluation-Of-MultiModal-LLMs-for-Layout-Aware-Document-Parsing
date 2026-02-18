@@ -10,5 +10,6 @@ Extracted_parsing_images/
 
 # Python Environment and Cache
 venv/
+myenv/
 __pycache__/
 *.pyc

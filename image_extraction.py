@@ -6,9 +6,9 @@ from PIL import Image
 import glob
 
 # Base path to your dataset
-base_path = r"D:\Projects\BTP\CC-OCR_Dataset\doc_parsing"
+base_path = r"C:\Users\anshg\OneDrive\Desktop\BTP\Evaluation-Of-MultiModal-LLMs-for-Layout-Aware-Document-Parsing\CC-OCR_Dataset\doc_parsing"
 folders = ["doc", "table"]
-output_base = r"D:\Projects\BTP\Extracted_parsing_images"
+output_base = r"C:\Users\anshg\OneDrive\Desktop\BTP\Evaluation-Of-MultiModal-LLMs-for-Layout-Aware-Document-Parsing\Extracted_parsing_images"
 
 def extract_from_tsv(file_path, save_dir):
     try:
